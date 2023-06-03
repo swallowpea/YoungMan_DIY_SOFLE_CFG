@@ -82,7 +82,7 @@
           &trans        &trans        &trans     &kp PSCRN        &trans        &trans                   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9      &none  &trans  &trans
   &kp LEFT_SHIFT    &kp K_UNDO     &kp K_CUT    &kp K_COPY   &kp K_PASTE        &trans                   &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6   &kp PLUS  &trans  &trans
 &kp LEFT_CONTROL        &trans        &trans        &trans        &trans        &trans  &trans  &trans   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp ENTER  &trans  &trans
-                                      &trans  &kp LEFT_ALT        &trans        &trans  &trans  &trans   &kp KP_NUMBER_0            &none       &kp PERIOD     &trans
+                                      &trans  &kp LEFT_ALT        &trans        &trans  &trans  &trans   &kp KP_NUMBER_0       &kp PERIOD            &none     &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
